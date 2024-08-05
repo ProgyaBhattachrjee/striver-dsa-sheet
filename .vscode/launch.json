@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "quicksort",
+      "request": "launch",
+      "mainClass": "sorting.quicksort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "quicsort",
+      "request": "launch",
+      "mainClass": "sorting.quicsort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "mergesort",
+      "request": "launch",
+      "mainClass": "sorting.mergesort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "sorting.insertionsort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "sorting.bubblesort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "sorting.selectionsort",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "p3",
+      "request": "launch",
+      "mainClass": "pattern.p3",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "p22",
       "request": "launch",
       "mainClass": "pattern.p22",
