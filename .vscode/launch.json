@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "doubleLinkedlist.reverse",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "deletelastnode",
+      "request": "launch",
+      "mainClass": "doubleLinkedlist.deletelastnode",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "insertatend",
+      "request": "launch",
+      "mainClass": "doubleLinkedlist.insertatend",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "create",
+      "request": "launch",
+      "mainClass": "doubleLinkedlist.create",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "createDLL",
+      "request": "launch",
+      "mainClass": "linkedlist.createDLL",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "findinLL",
+      "request": "launch",
+      "mainClass": "linkedlist.findinLL",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "lengthll",
+      "request": "launch",
+      "mainClass": "linkedlist.lengthll",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "deletelastnode",
+      "request": "launch",
+      "mainClass": "linkedlist.deletelastnode",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "inseratheadll",
+      "request": "launch",
+      "mainClass": "linkedlist.inseratheadll",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "arraytoLL",
+      "request": "launch",
+      "mainClass": "linkedlist.arraytoLL",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "quicksort",
       "request": "launch",
       "mainClass": "sorting.quicksort",
