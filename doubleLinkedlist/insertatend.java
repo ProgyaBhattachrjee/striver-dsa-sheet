@@ -49,6 +49,7 @@ public class insertatend {
        }
         print(head);
         System.out.println("enter data to insert at end: ");
+        @SuppressWarnings("resource")
         Scanner s = new Scanner(System.in);
         int x = s.nextInt();
         head = add(head, x);
