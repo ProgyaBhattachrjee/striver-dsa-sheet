@@ -2,18 +2,18 @@ package doubleLinkedlist;
 
 import java.util.Scanner;
 
-class Node {
+class Node1 {
     int data;
-    Node next;
-    Node prev;
+    Node1 next;
+    Node1 prev;
 
-    Node(int d, Node n, Node p) {
+    Node1(int d, Node1 n, Node1 p) {
         this.data = d;
         this.next = n;
         this.prev = p;
     }
 
-    Node(int d) {
+    Node1(int d) {
         this.data = d;
         this.next = null;
         this.prev = null;
@@ -22,28 +22,28 @@ class Node {
 
 
 public class insertatend {
-    public static void print(Node h) {
-        Node c = h;
+    public static void print(Node1 h) {
+        Node1 c = h;
         while (c != null) {
             System.out.println(c.data);
             c = c.next;
         }
     }
-      public static Node add(Node h,int e){
-        Node c = h;
+      public static Node1 add(Node1 h,int e){
+        Node1 c = h;
         while (c.next!= null) {
             c = c.next;
         }
-        c.next = new Node(e,null,c);
+        c.next = new Node1(e,null,c);
         c = c.next;
         return h;
       }
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6};
-        Node head = new Node(arr[0]);
-        Node c = head;
+        Node1 head = new Node1(arr[0]);
+        Node1 c = head;
        for (int i = 1; i < arr.length; i++) {
-        Node t = new Node(arr[i],null,c);
+        Node1 t = new Node1(arr[i],null,c);
         c.next = t;
         c = t;
        }

@@ -33,10 +33,11 @@ public class lengthll {
     }
      public static void count(Node h){
         Node c = h;
-        int cnt = 0;
+        int cnt = 1;
         while (c.next != null) {
-            c = c.next;
             cnt++;
+            c = c.next;
+        
         }
         System.out.println("size: "+cnt);
      }
