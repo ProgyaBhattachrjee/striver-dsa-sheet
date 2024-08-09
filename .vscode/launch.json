@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "deletemiddle",
+      "request": "launch",
+      "mainClass": "linkedlist_mid.deletemiddle",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "removenthfromlast",
+      "request": "launch",
+      "mainClass": "linkedlist_mid.removenthfromlast",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "oddeven",
+      "request": "launch",
+      "mainClass": "linkedlist_mid.oddeven",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "pallindrome",
+      "request": "launch",
+      "mainClass": "linkedlist_mid.pallindrome",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "cycle",
       "request": "launch",
       "mainClass": "linkedlist_mid.cycle",
