@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "paranthesis",
+      "request": "launch",
+      "mainClass": "stacks.paranthesis",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "queueusingLinkedlist",
+      "request": "launch",
+      "mainClass": "queue.queueusingLinkedlist",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "stackusingLikedlist",
+      "request": "launch",
+      "mainClass": "stacks.stackusingLikedlist",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "queueusingstacks",
+      "request": "launch",
+      "mainClass": "queue.queueusingstacks",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "stackusingqueue",
+      "request": "launch",
+      "mainClass": "stacks.stackusingqueue",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "create",
+      "request": "launch",
+      "mainClass": "queue.create",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "create",
+      "request": "launch",
+      "mainClass": "stacks.create",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "reversektimrs",
+      "request": "launch",
+      "mainClass": "linkedList_hard.reversektimrs",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "lengthll",
+      "request": "launch",
+      "mainClass": "linkedList_hard.lengthll",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "removeallduplicates",
       "request": "launch",
       "mainClass": "linkedlist_mid.removeallduplicates",
