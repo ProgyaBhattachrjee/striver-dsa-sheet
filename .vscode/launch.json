@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "infixtoprefix",
+      "request": "launch",
+      "mainClass": "stacks.infixtoprefix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "infixTopostfix",
+      "request": "launch",
+      "mainClass": "stacks.infixTopostfix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "postfixtoinfix",
+      "request": "launch",
+      "mainClass": "stacks.postfixtoinfix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "postfixtoprefix",
+      "request": "launch",
+      "mainClass": "stacks.postfixtoprefix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "prefixtopostfix",
+      "request": "launch",
+      "mainClass": "stacks.prefixtopostfix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "prefixtoinfix",
+      "request": "launch",
+      "mainClass": "stacks.prefixtoinfix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "InfixToPrefix",
+      "request": "launch",
+      "mainClass": "stacks.InfixToPrefix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "infixToprefix",
+      "request": "launch",
+      "mainClass": "stacks.infixToprefix",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "paranthesis",
       "request": "launch",
       "mainClass": "stacks.paranthesis",

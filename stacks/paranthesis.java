@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class paranthesis {
     public static boolean check(String st){
+        
        Stack<Character> s = new Stack<>();
        for(char i : st.toCharArray()){
         if(i == '(' || i == '{' || i == '['){
