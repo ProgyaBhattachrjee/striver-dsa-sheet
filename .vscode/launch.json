@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sumofsubarray",
+      "request": "launch",
+      "mainClass": "stackqueue.sumofsubarray",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "trappingrainwater",
+      "request": "launch",
+      "mainClass": "stackqueue.trappingrainwater",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "numberofNGE",
+      "request": "launch",
+      "mainClass": "stackqueue.numberofNGE",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "nextsmallestelement",
+      "request": "launch",
+      "mainClass": "stackqueue.nextsmallestelement",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "nextgreatestelement",
+      "request": "launch",
+      "mainClass": "stackqueue.nextgreatestelement",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "infixtoprefix",
       "request": "launch",
       "mainClass": "stacks.infixtoprefix",
