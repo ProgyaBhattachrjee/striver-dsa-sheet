@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestRectangleInHistogram",
+      "request": "launch",
+      "mainClass": "stackqueue.LargestRectangleInHistogram",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "largestrectangleinanhistogram",
+      "request": "launch",
+      "mainClass": "stackqueue.largestrectangleinanhistogram",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "removekdigit",
+      "request": "launch",
+      "mainClass": "stackqueue.removekdigit",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "SumOfSubarrayRanges",
+      "request": "launch",
+      "mainClass": "stackqueue.SumOfSubarrayRanges",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "sumofsubarrayranges",
+      "request": "launch",
+      "mainClass": "stackqueue.sumofsubarrayranges",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "astroidcollision",
       "request": "launch",
       "mainClass": "stackqueue.astroidcollision",
