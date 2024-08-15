@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "astroidcollision",
+      "request": "launch",
+      "mainClass": "stackqueue.astroidcollision",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "sumofsubarray",
       "request": "launch",
       "mainClass": "stackqueue.sumofsubarray",
