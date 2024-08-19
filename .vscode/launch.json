@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "validateparenthesis",
+      "request": "launch",
+      "mainClass": "greedyalgo.validateparenthesis",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "ValidateParenthesis",
+      "request": "launch",
+      "mainClass": "greedyalgo.ValidateParenthesis",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "lemonade",
+      "request": "launch",
+      "mainClass": "greedyalgo.lemonade",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "minnumberofcoins",
+      "request": "launch",
+      "mainClass": "greedyalgo.minnumberofcoins",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "fractional_knapsack",
+      "request": "launch",
+      "mainClass": "greedyalgo.fractional_knapsack",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "cookies",
+      "request": "launch",
+      "mainClass": "greedyalgo.cookies",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "appears_once",
+      "request": "launch",
+      "mainClass": "Array.appears_once",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "minmax",
+      "request": "launch",
+      "mainClass": "heap.minmax",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "create",
+      "request": "launch",
+      "mainClass": "heap.create",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "longestsubstring",
+      "request": "launch",
+      "mainClass": "slidingwindow.longestsubstring",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "LargestRectangleInHistogram",
       "request": "launch",
       "mainClass": "stackqueue.LargestRectangleInHistogram",
