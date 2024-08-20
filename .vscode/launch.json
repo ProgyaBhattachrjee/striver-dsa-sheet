@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "jumpgame",
+      "request": "launch",
+      "mainClass": "greedyalgo.jumpgame",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "Nmeeting",
+      "request": "launch",
+      "mainClass": "greedyalgo.Nmeeting",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "validateparenthesis",
       "request": "launch",
       "mainClass": "greedyalgo.validateparenthesis",
