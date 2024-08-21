@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "railway",
+      "request": "launch",
+      "mainClass": "greedyalgo.railway",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "convermintomax",
+      "request": "launch",
+      "mainClass": "heap.convermintomax",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "minheapornot",
+      "request": "launch",
+      "mainClass": "heap.minheapornot",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "priorityqueueusingheap",
+      "request": "launch",
+      "mainClass": "heap.priorityqueueusingheap",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "priorityqueueusingbinaryheap",
+      "request": "launch",
+      "mainClass": "heap.priorityqueueusingbinaryheap",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "jumpgame",
       "request": "launch",
       "mainClass": "greedyalgo.jumpgame",
