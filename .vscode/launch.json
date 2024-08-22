@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "InserInterval",
+      "request": "launch",
+      "mainClass": "greedyalgo.InserInterval",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "LRU",
+      "request": "launch",
+      "mainClass": "greedyalgo.LRU",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "SJF",
+      "request": "launch",
+      "mainClass": "greedyalgo.SJF",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "Candy",
+      "request": "launch",
+      "mainClass": "greedyalgo.Candy",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "Jobsequencing",
       "request": "launch",
       "mainClass": "greedyalgo.Jobsequencing",
