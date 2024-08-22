@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Jobsequencing",
+      "request": "launch",
+      "mainClass": "greedyalgo.Jobsequencing",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "railway",
       "request": "launch",
       "mainClass": "greedyalgo.railway",
