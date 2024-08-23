@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HandOfStraights",
+      "request": "launch",
+      "mainClass": "heap.HandOfStraights",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "TaskScheduler",
+      "request": "launch",
+      "mainClass": "heap.TaskScheduler",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "repalcebyrank",
+      "request": "launch",
+      "mainClass": "queue.repalcebyrank",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "ksortedarray",
+      "request": "launch",
+      "mainClass": "queue.ksortedarray",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "Kthlargest_smallest",
+      "request": "launch",
+      "mainClass": "queue.Kthlargest_smallest",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
+      "name": "Kthlargest_smallest",
+      "request": "launch",
+      "mainClass": "greedyalgo.Kthlargest_smallest",
+      "projectName": "striver-dsa-sheet_30cf4d35"
+    },
+    {
+      "type": "java",
       "name": "InserInterval",
       "request": "launch",
       "mainClass": "greedyalgo.InserInterval",
