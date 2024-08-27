@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PostOrderTraversal",
+      "request": "launch",
+      "mainClass": "BinaryTree.PostOrderTraversal",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "postorder2stack",
+      "request": "launch",
+      "mainClass": "BinaryTree.postorder2stack",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "LevelOrder",
+      "request": "launch",
+      "mainClass": "BinaryTree.LevelOrder",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Preorder",
+      "request": "launch",
+      "mainClass": "BinaryTree.Preorder",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Inorder",
+      "request": "launch",
+      "mainClass": "BinaryTree.Inorder",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "PostOrder",
+      "request": "launch",
+      "mainClass": "BinaryTree.PostOrder",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Create",
+      "request": "launch",
+      "mainClass": "BinaryTree.Create",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "create",
+      "request": "launch",
+      "mainClass": "doubleLinkedlist.create",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "HandOfStraights",
       "request": "launch",
       "mainClass": "heap.HandOfStraights",
