@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Diameter",
+      "request": "launch",
+      "mainClass": "BinaryTree.Diameter",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Balancedornot",
+      "request": "launch",
+      "mainClass": "BinaryTree.Balancedornot",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Height",
+      "request": "launch",
+      "mainClass": "BinaryTree.Height",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "allDfs",
+      "request": "launch",
+      "mainClass": "BinaryTree.allDfs",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Postorder1stack",
+      "request": "launch",
+      "mainClass": "BinaryTree.Postorder1stack",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "arraytoLL",
+      "request": "launch",
+      "mainClass": "linkedlist.arraytoLL",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "PostOrderTraversal",
       "request": "launch",
       "mainClass": "BinaryTree.PostOrderTraversal",
