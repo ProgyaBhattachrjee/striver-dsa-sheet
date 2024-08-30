@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BounderyTraversal",
+      "request": "launch",
+      "mainClass": "BinaryTree.BounderyTraversal",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "Zigzagtraversal",
       "request": "launch",
       "mainClass": "BinaryTree.Zigzagtraversal",
