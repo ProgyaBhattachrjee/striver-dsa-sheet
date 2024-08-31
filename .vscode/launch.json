@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Symmetric",
+      "request": "launch",
+      "mainClass": "BinaryTree.Symmetric",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "LeftTorignt",
+      "request": "launch",
+      "mainClass": "BinaryTree.LeftTorignt",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "RightToleft",
+      "request": "launch",
+      "mainClass": "BinaryTree.RightToleft",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Bottomview",
+      "request": "launch",
+      "mainClass": "BinaryTree.Bottomview",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Toporder",
+      "request": "launch",
+      "mainClass": "BinaryTree.Toporder",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "verticalorde",
+      "request": "launch",
+      "mainClass": "BinaryTree.verticalorde",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "BounderyTraversal",
       "request": "launch",
       "mainClass": "BinaryTree.BounderyTraversal",
