@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinerSubarraySum",
+      "request": "launch",
+      "mainClass": "slidingWindow.BinerSubarraySum",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "LongestRepeatingCharacterWithreplacement",
+      "request": "launch",
+      "mainClass": "slidingWindow.LongestRepeatingCharacterWithreplacement",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Fruitbasket",
+      "request": "launch",
+      "mainClass": "slidingWindow.Fruitbasket",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "maxConsecute1s",
+      "request": "launch",
+      "mainClass": "slidingWindow.maxConsecute1s",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "longestSubstring",
+      "request": "launch",
+      "mainClass": "slidingWindow.longestSubstring",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "Symmetric",
       "request": "launch",
       "mainClass": "BinaryTree.Symmetric",
