@@ -3,6 +3,61 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumWindowSubstring",
+      "request": "launch",
+      "mainClass": "slidingWindow.MinimumWindowSubstring",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "SubarrayKdifferentInteger",
+      "request": "launch",
+      "mainClass": "slidingWindow.SubarrayKdifferentInteger",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "MaximumPointsCard",
+      "request": "launch",
+      "mainClass": "slidingWindow.MaximumPointsCard",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "SunstringContainingThreeChar",
+      "request": "launch",
+      "mainClass": "slidingWindow.SunstringContainingThreeChar",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Duplicate",
+      "request": "launch",
+      "mainClass": "Array.Duplicate",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "CountNiceSubarray",
+      "request": "launch",
+      "mainClass": "slidingWindow.CountNiceSubarray",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
+      "name": "CountNumberofNiceSubArray",
+      "request": "launch",
+      "mainClass": "slidingWindow.CountNumberofNiceSubArray",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "BinerSubarraySum",
       "request": "launch",
       "mainClass": "slidingWindow.BinerSubarraySum",
