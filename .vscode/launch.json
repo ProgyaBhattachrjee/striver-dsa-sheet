@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "createGraph",
+      "request": "launch",
+      "mainClass": "createGraph",
+      "projectName": "striver-dsa-sheet_5972ee76"
+    },
+    {
+      "type": "java",
       "name": "Min",
       "request": "launch",
       "mainClass": "BinerySearchTree.Min",
